@@ -4,7 +4,6 @@ I'm a **web developer** who is passionate about computers for more than 10 years
 
 My **work experience** includes 2 years of backend development in a small startup.
 
-### My Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyluan)](https://github.com/dyluan/github-readme-stats)
 
 # Projects
