@@ -9,7 +9,7 @@ My **work experience** includes 2 years of backend development in a small startu
 # Projects
 
 ### [512](https://github.com/Dyluan/512-React)
-You've all played and loved that 2048 mobile game back in the day. I did too. So much that I decided to create the game in JavaScript. It works fine but I'll redo it using React.
+You've all played and loved that 2048 mobile game back in the day. I did too. So much that I decided to create the game in a web app. I used React to make create the project.
 Technologies used :
 - React
 - Tailwind
