@@ -9,7 +9,7 @@ My **work experience** includes 2 years of backend development in a small startu
 # Projects
 
 ### [512](https://github.com/Dyluan/512-React)
-You've all played and loved that 2048 mobile game back in the day. I did too. So much that I decided to create the game in a web app. I used React to make create the project.
+You've all played and loved that 2048 mobile game back in the day. I did too. So much that I decided to create the game in a web app. I used React to make the project.
 Technologies used :
 - React
 - Tailwind
@@ -23,9 +23,9 @@ Technologies used :
 ### [Decent Places to Live](https://github.com/Dyluan/DPTL/tree/master)
 An old project I made in order to scrape (or mine) Real Estate websites and find the apartment of my dreams! 
 Technologies used : 
-- Selenium (for the scraping)
-- Django (for the creation of the webpage)
-- sqlite3 (for the DB)
+- Selenium
+- Django
+- sqlite3
 
 ---
 
