@@ -15,6 +15,13 @@ Technologies used :
 - Tailwind
 - HTML/ CSS
 
+### [Todo List](https://github.com/Dyluan/Todo-list)
+A simple todo list using a React for the front and a .NET API for the back.
+Technologies used : 
+- React
+- .NET
+- HTML/ CSS
+
 ### [Ants vs Bees](https://github.com/Dyluan/AntsVsBees)
 A Python game I made for a course in Harvard. Fully playable.
 Technologies used :
