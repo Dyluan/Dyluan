@@ -16,7 +16,7 @@ Technologies used :
 - HTML/ CSS
 
 ### [Todo List](https://github.com/Dyluan/Todo-list)
-A simple todo list using a React for the front and a .NET API for the back.
+A simple todo list using React for the front and a .NET API for the back.
 Technologies used : 
 - React
 - .NET
