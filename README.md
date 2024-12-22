@@ -2,7 +2,7 @@
 
 I'm a **web developer** who is passionate about computers for more than 10 years. I discovered programming in 2012 and kept learning new technologies since. Some technologies I enjoy working with include **ReactJS**, **Angular**, **Django**.
 
-My **work experience** includes 2 years of backend development in a small startup.
+For the moment, my **work experience** consists of a few months of backend development in a small startup.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyluan)](https://github.com/dyluan/github-readme-stats)
 
