@@ -27,12 +27,12 @@ A Python game I made for a course in Harvard. Fully playable.
 Technologies used :
 - Python
 
-### [Decent Places to Live](https://github.com/Dyluan/DPTL/tree/master)
-An old project I made in order to scrape (or mine) Real Estate websites and find the apartment of my dreams! 
-Technologies used : 
-- Selenium
-- Django
-- sqlite3
+### [TodoList Angular](https://github.com/Dyluan/Todo-Angular)
+An intuitive and easy task management tool, made using Angular.
+Technologies used :
+- Angular
+- JS
+- HTML/ CSS
 
 ---
 
