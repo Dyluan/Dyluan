@@ -22,10 +22,18 @@ Technologies used :
 - .NET
 - HTML/ CSS
 
-### [Ants vs Bees](https://github.com/Dyluan/AntsVsBees)
-A Python game I made for a course in Harvard. Fully playable.
-Technologies used :
+### [LogeFinder](https://github.com/Dyluan/logeFinder)
+A website I made to gather all the real estate goods in Bruxelles from various websites.
+I used Python for scraping websites and to upload new real estate goods in a DB made in PostgreSQL. That DB is connected to a backend made using Express, and that backend is connected to a frontend made in Angular. 
+Technologies used : 
+- Angular
+- JS
+- HTML/CSS
 - Python
+- Node.js
+- Express
+- Docker
+- PostgreSQL
 
 ### [TodoList Angular](https://github.com/Dyluan/Todo-Angular)
 An intuitive and easy task management tool, made using Angular.
